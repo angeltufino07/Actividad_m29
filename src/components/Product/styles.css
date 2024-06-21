@@ -1,0 +1,22 @@
+img {
+  width: 200px;
+}
+
+.product1 {
+  margin: 45px 40px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+button {
+  background: #2e653e;
+  border: none;
+  border-radius: 6px;
+  color: #ffffff;
+  justify-content: space-around;
+  padding: 0.7rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}/*# sourceMappingURL=styles.css.map */

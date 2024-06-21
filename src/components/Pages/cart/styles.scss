@@ -1,0 +1,29 @@
+
+.disp-inline{
+    size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 95%;
+    margin: 20px 60px;
+    align-items: center;
+    
+}
+
+.cartShop{
+    width: 95%;
+    margin: 20px 60px;   
+    size: 20px;
+}
+
+.imgCart{
+   width: 130px;
+    height: 100px;
+}
+
+.btn-remove{
+
+    background-color: rgb(107, 4, 4);
+    height: 37px;
+}

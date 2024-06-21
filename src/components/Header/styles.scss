@@ -1,0 +1,35 @@
+.HeaderBack{
+    
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    background-color: #347474;
+    padding: 20px 10px;
+    margin-bottom: 30px;
+}
+
+.ShopCart{
+    margin: 0px 5px;    
+    width: 40px;
+}
+
+.InicioHead{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+    border-right:  60px;
+   
+}
+
+.nav{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    width: 190px;
+    align-items: center;
+}
+
+.Tonline{
+    font-size: 1.8rem;
+    color: aliceblue;
+}
